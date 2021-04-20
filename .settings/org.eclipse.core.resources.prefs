@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//WebContent/a.jsp=UTF-8
+encoding//WebContent/css/Rating.css=UTF-8
+encoding//WebContent/css/style.css=UTF-8
+encoding//WebContent/error.jsp=UTF-8
+encoding//WebContent/product.jsp=UTF-8
+encoding//src/Connection/DBConnection.java=UTF-8
+encoding//src/Controller/Checkout.java=UTF-8
+encoding//src/Controller/EditPassword.java=UTF-8
+encoding//src/Controller/ForgotPassword.java=UTF-8
+encoding//src/Controller/Login_Controller.java=UTF-8
+encoding//src/Controller/Pay_Controller.java=UTF-8
+encoding//src/Controller/Register_Controller.java=UTF-8
+encoding//src/Controller/StarRating.java=UTF-8
+encoding//src/Controller/VerifyCode.java=UTF-8
+encoding//src/Controller/formrate.java=UTF-8
+encoding//src/Other/SendEmail.java=UTF-8
